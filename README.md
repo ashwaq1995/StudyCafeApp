@@ -38,7 +38,7 @@ Configured relational database (MySQL) with entities for users, seats, and reser
 | ------------------- | ---------------------------------- |
 | **Frontend**        | React, TypeScript, Axios           |
 | **Backend**         | Java, Spring Boot, Spring Data JPA |
-| **Database**        | MySQL / PostgreSQL                 |
+| **Database**        | MySQL                              |
 | **Authentication**  | JWT                                |
 | **Build & Tools**   | Maven, IntelliJ IDEA, VS Code      |
 | **Version Control** | Git / GitHub                       |
