@@ -2,8 +2,9 @@
 
 📋 Project Description
 
-The Study Café App was developed during my Java Bootcamp at Tuwaiq Academy as a full-stack web application that allows students to book study spaces, manage reservations, and collaborate with others in shared environments.
-The goal was to combine frontend interactivity with a robust Java backend, demonstrating practical implementation of CRUD operations, API design, and database connectivity.
+The Study Café App was developed during my Java Bootcamp at Tuwaiq Academy as a full-stack web application that enables students to book study spaces, manage reservations, and collaborate in shared environments.
+The project combines an interactive React frontend with a robust Java Spring Boot backend, showcasing the practical implementation of CRUD operations, RESTful API design, and database connectivity.
+
 
 Frontend (React)
       │
